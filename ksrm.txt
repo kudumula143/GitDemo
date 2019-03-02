@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hellohru chintuvempalli
 =======
 hello
@@ -8,3 +9,7 @@ hello
 hellohru chintu
 >>>>>>> parent of 87cda52... chintu line
 hEelllllllllllllleeeeeee
+=======
+hellohru chintuvempalli
+>>>>>>> parent of 99de189... chintuuuuuuuuuu
+uuuuuuuuuu
