@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hellohru chintuvempalli
+=======
+hello
+>>>>>>> parent of be2f416... start the second line
