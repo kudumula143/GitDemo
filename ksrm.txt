@@ -3,3 +3,8 @@ hello
 how is 
 your 
 project
+i
+am 
+started
+the 
+project
